@@ -1,0 +1,81 @@
+invoice_id,data_fattura,reparto,tipo_fattura,paziente_id,nome_paziente,descrizione_prestazione,fornitore,descrizione_fornitura,importo,stato
+FAT20240001,2024-06-01,Ortopedia,FORNITURA,,,,BioSupplies Srl,Acquisto reagenti laboratorio,743.49,PAGATA
+FAT20240002,2024-06-02,Radiologia,SANITARIA,PAZ0200,Coriolano Barbarigo,Visita cardiologica,,,95.53,PAGATA
+FAT20240003,2024-06-02,Laboratorio,SANITARIA,PAZ0228,Severino Manunta,Holter pressorio,,,120.54,DA PAGARE
+FAT20240004,2024-06-03,Pronto Soccorso,FORNITURA,,,,Sanitaria Pro SpA,Fornitura mascherine FFP2 (1000 pz),84.66,PAGATA
+FAT20240005,2024-06-03,Radiologia,SANITARIA,PAZ0246,Costantino Salieri,Visita cardiologica,,,167.46,DA PAGARE
+FAT20240006,2024-06-04,Pronto Soccorso,SANITARIA,PAZ0255,Rocco Cafarchia,TAC cranio senza contrasto,,,68.05,DA PAGARE
+FAT20240007,2024-06-04,Radiologia,FORNITURA,,,,MedTech Srl,Elettrodi monouso (100 pz),549.03,PAGATA
+FAT20240008,2024-06-05,Cardiologia,SANITARIA,PAZ0222,Maura Stein,TAC cranio senza contrasto,,,118.92,PAGATA
+FAT20240009,2024-06-05,Cardiologia,SANITARIA,PAZ0277,Sole Sismondi,Analisi sangue completo,,,43.13,PAGATA
+FAT20240010,2024-06-06,Radiologia,SANITARIA,PAZ0271,Damiano Botticelli,ECG standard,,,117.01,DA PAGARE
+FAT20240011,2024-06-06,Cardiologia,FORNITURA,,,,Sanitaria Pro SpA,Fornitura mascherine FFP2 (1000 pz),834.86,DA PAGARE
+FAT20240012,2024-06-07,Laboratorio,FORNITURA,,,,Sanitaria Pro SpA,Fornitura mascherine FFP2 (1000 pz),855.3,DA PAGARE
+FAT20240013,2024-06-07,Radiologia,SANITARIA,PAZ0246,Costantino Salieri,Visita ortopedica,,,167.02,PAGATA
+FAT20240014,2024-06-08,Laboratorio,SANITARIA,PAZ0291,Leopoldo Chechi,Holter pressorio,,,123.14,PAGATA
+FAT20240015,2024-06-08,Ortopedia,SANITARIA,PAZ0199,Lauretta Guariento,TAC cranio senza contrasto,,,218.25,DA PAGARE
+FAT20240016,2024-06-09,Cardiologia,SANITARIA,PAZ0251,Marissa Solari,TAC cranio senza contrasto,,,188.36,PAGATA
+FAT20240017,2024-06-09,Pronto Soccorso,SANITARIA,PAZ0294,Marina Proietti,Ecodoppler arti inferiori,,,187.72,PAGATA
+FAT20240018,2024-06-10,Cardiologia,SANITARIA,PAZ0270,Ermenegildo Galiazzo,ECG standard,,,54.85,DA PAGARE
+FAT20240019,2024-06-10,Radiologia,FORNITURA,,,,TechImaging Srl,Manutenzione annuale TAC,576.69,DA PAGARE
+FAT20240020,2024-06-11,Cardiologia,SANITARIA,PAZ0271,Damiano Botticelli,ECG standard,,,130.45,PAGATA
+FAT20240021,2024-06-11,Radiologia,FORNITURA,,,,TechImaging Srl,Manutenzione annuale TAC,766.69,DA PAGARE
+FAT20240022,2024-06-12,Laboratorio,FORNITURA,,,,TechImaging Srl,Manutenzione annuale TAC,225.23,PAGATA
+FAT20240023,2024-06-12,Terapia Intensiva,SANITARIA,PAZ0271,Damiano Botticelli,RX ginocchio dx,,,52.04,DA PAGARE
+FAT20240024,2024-06-13,Cardiologia,SANITARIA,PAZ0202,Alfio Rosiello,Visita ortopedica,,,172.54,PAGATA
+FAT20240025,2024-06-13,Pronto Soccorso,FORNITURA,,,,Sanitaria Pro SpA,Fornitura mascherine FFP2 (1000 pz),576.49,PAGATA
+FAT20240026,2024-06-14,Ortopedia,SANITARIA,PAZ0256,Cirillo Gelli,ECG standard,,,185.27,PAGATA
+FAT20240027,2024-06-14,Terapia Intensiva,SANITARIA,PAZ0223,Rossana Bacosi,Analisi sangue completo,,,43.89,DA PAGARE
+FAT20240028,2024-06-15,Radiologia,FORNITURA,,,,TechImaging Srl,Manutenzione annuale TAC,246.54,DA PAGARE
+FAT20240029,2024-06-15,Cardiologia,FORNITURA,,,,Sanitaria Pro SpA,Fornitura mascherine FFP2 (1000 pz),657.37,PAGATA
+FAT20240030,2024-06-16,Pronto Soccorso,FORNITURA,,,,BioSupplies Srl,Acquisto reagenti laboratorio,985.87,DA PAGARE
+FAT20240031,2024-06-16,Radiologia,SANITARIA,PAZ0260,Ninetta Tomasetti,Ecodoppler arti inferiori,,,205.54,PAGATA
+FAT20240032,2024-06-17,Terapia Intensiva,FORNITURA,,,,TechImaging Srl,Manutenzione annuale TAC,281.74,PAGATA
+FAT20240033,2024-06-17,Terapia Intensiva,FORNITURA,,,,CleanCare Spa,Fornitura disinfettanti trimestrale,247.46,PAGATA
+FAT20240034,2024-06-18,Radiologia,SANITARIA,PAZ0296,Ornella Ficino,ECG standard,,,154.15,PAGATA
+FAT20240035,2024-06-18,Terapia Intensiva,SANITARIA,PAZ0251,Marissa Solari,Visita ortopedica,,,204.09,DA PAGARE
+FAT20240036,2024-06-19,Pronto Soccorso,FORNITURA,,,,Sanitaria Pro SpA,Fornitura mascherine FFP2 (1000 pz),984.54,DA PAGARE
+FAT20240037,2024-06-19,Cardiologia,SANITARIA,PAZ0220,Stella Gabrieli,Analisi sangue completo,,,88.45,PAGATA
+FAT20240038,2024-06-20,Laboratorio,FORNITURA,,,,Sanitaria Pro SpA,Fornitura mascherine FFP2 (1000 pz),798.16,PAGATA
+FAT20240039,2024-06-20,Radiologia,SANITARIA,PAZ0253,Arsenio Rismondo,Visita ortopedica,,,134.56,DA PAGARE
+FAT20240040,2024-06-21,Laboratorio,SANITARIA,PAZ0281,Baccio Dovara,RX ginocchio dx,,,67.71,PAGATA
+FAT20240041,2024-06-21,Laboratorio,FORNITURA,,,,CleanCare Spa,Fornitura disinfettanti trimestrale,74.53,PAGATA
+FAT20240042,2024-06-22,Pronto Soccorso,FORNITURA,,,,TechImaging Srl,Manutenzione annuale TAC,90.93,PAGATA
+FAT20240043,2024-06-22,Laboratorio,SANITARIA,PAZ0239,Pellegrino Tomaselli,Visita cardiologica,,,103.85,DA PAGARE
+FAT20240044,2024-06-23,Ortopedia,FORNITURA,,,,BioSupplies Srl,Acquisto reagenti laboratorio,701.83,DA PAGARE
+FAT20240045,2024-06-23,Cardiologia,FORNITURA,,,,Sanitaria Pro SpA,Fornitura mascherine FFP2 (1000 pz),622.47,DA PAGARE
+FAT20240046,2024-06-24,Pronto Soccorso,SANITARIA,PAZ0262,Silvio Malenchini,Ecodoppler arti inferiori,,,238.1,PAGATA
+FAT20240047,2024-06-24,Pronto Soccorso,SANITARIA,PAZ0283,Loredana Mannoia,Holter pressorio,,,192.76,DA PAGARE
+FAT20240048,2024-06-25,Pronto Soccorso,SANITARIA,PAZ0226,Pina Scotto,Ecodoppler arti inferiori,,,92.17,PAGATA
+FAT20240049,2024-06-25,Laboratorio,SANITARIA,PAZ0289,Antonio Morpurgo,Visita ortopedica,,,109.7,PAGATA
+FAT20240050,2024-06-26,Ortopedia,SANITARIA,PAZ0255,Rocco Cafarchia,ECG standard,,,175.42,DA PAGARE
+FAT20240051,2024-06-26,Laboratorio,SANITARIA,PAZ0226,Pina Scotto,Visita ortopedica,,,71.51,DA PAGARE
+FAT20240052,2024-06-27,Cardiologia,SANITARIA,PAZ0235,Gioacchino Favata,ECG standard,,,148.46,DA PAGARE
+FAT20240053,2024-06-27,Pronto Soccorso,SANITARIA,PAZ0203,Galasso Paolucci,Holter pressorio,,,212.38,PAGATA
+FAT20240054,2024-06-28,Terapia Intensiva,FORNITURA,,,,MedTech Srl,Elettrodi monouso (100 pz),720.19,DA PAGARE
+FAT20240055,2024-06-28,Cardiologia,FORNITURA,,,,BioSupplies Srl,Acquisto reagenti laboratorio,920.13,DA PAGARE
+FAT20240056,2024-06-29,Ortopedia,SANITARIA,PAZ0294,Marina Proietti,ECG standard,,,81.31,PAGATA
+FAT20240057,2024-06-29,Ortopedia,FORNITURA,,,,TechImaging Srl,Manutenzione annuale TAC,640.76,DA PAGARE
+FAT20240058,2024-06-30,Radiologia,SANITARIA,PAZ0290,Stella Bosurgi,Analisi sangue completo,,,125.82,PAGATA
+FAT20240059,2024-06-30,Terapia Intensiva,SANITARIA,PAZ0222,Maura Stein,Ecodoppler arti inferiori,,,61.14,PAGATA
+FAT20240060,2024-07-01,Radiologia,SANITARIA,PAZ0203,Galasso Paolucci,Holter pressorio,,,191.46,PAGATA
+FAT20240061,2024-07-01,Ortopedia,FORNITURA,,,,CleanCare Spa,Fornitura disinfettanti trimestrale,332.43,PAGATA
+FAT20240062,2024-07-02,Terapia Intensiva,SANITARIA,PAZ0271,Damiano Botticelli,ECG standard,,,218.19,DA PAGARE
+FAT20240063,2024-07-02,Ortopedia,SANITARIA,PAZ0243,Gabriella Speri,Holter pressorio,,,125.43,DA PAGARE
+FAT20240064,2024-07-03,Cardiologia,SANITARIA,PAZ0273,Ilaria Tafuri,TAC cranio senza contrasto,,,59.01,DA PAGARE
+FAT20240065,2024-07-03,Cardiologia,SANITARIA,PAZ0258,Nadia Valier,ECG standard,,,218.68,PAGATA
+FAT20240066,2024-07-04,Laboratorio,SANITARIA,PAZ0295,Tina Guarato,Ecodoppler arti inferiori,,,221.99,PAGATA
+FAT20240067,2024-07-04,Laboratorio,FORNITURA,,,,CleanCare Spa,Fornitura disinfettanti trimestrale,336.08,PAGATA
+FAT20240068,2024-07-05,Laboratorio,SANITARIA,PAZ0297,Domenico Baggio,RX ginocchio dx,,,150.92,PAGATA
+FAT20240069,2024-07-05,Laboratorio,SANITARIA,PAZ0260,Ninetta Tomasetti,Visita cardiologica,,,180.34,DA PAGARE
+FAT20240070,2024-07-06,Pronto Soccorso,SANITARIA,PAZ0235,Gioacchino Favata,Ecodoppler arti inferiori,,,121.2,PAGATA
+FAT20240071,2024-07-06,Ortopedia,SANITARIA,PAZ0274,Daniele Castiglione,Visita ortopedica,,,114.96,PAGATA
+FAT20240072,2024-07-07,Laboratorio,SANITARIA,PAZ0281,Baccio Dovara,RX ginocchio dx,,,92.72,DA PAGARE
+FAT20240073,2024-07-07,Ortopedia,SANITARIA,PAZ0210,Virginia Foà,ECG standard,,,114.04,PAGATA
+FAT20240074,2024-07-08,Terapia Intensiva,FORNITURA,,,,BioSupplies Srl,Acquisto reagenti laboratorio,201.93,DA PAGARE
+FAT20240075,2024-07-08,Laboratorio,SANITARIA,PAZ0253,Arsenio Rismondo,Ecodoppler arti inferiori,,,148.92,DA PAGARE
+FAT20240076,2024-07-09,Pronto Soccorso,SANITARIA,PAZ0239,Pellegrino Tomaselli,Holter pressorio,,,74.88,PAGATA
+FAT20240077,2024-07-09,Terapia Intensiva,SANITARIA,PAZ0296,Ornella Ficino,Ecodoppler arti inferiori,,,210.29,PAGATA
+FAT20240078,2024-07-10,Cardiologia,SANITARIA,PAZ0221,Susanna Filogamo,Analisi sangue completo,,,54.92,DA PAGARE
+FAT20240079,2024-07-10,Cardiologia,FORNITURA,,,,BioSupplies Srl,Acquisto reagenti laboratorio,154.25,PAGATA
+FAT20240080,2024-07-11,Pronto Soccorso,FORNITURA,,,,TechImaging Srl,Manutenzione annuale TAC,499.98,DA PAGARE

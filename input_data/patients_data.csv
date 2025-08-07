@@ -1,0 +1,101 @@
+ID_PAZIENTE,NOME,COGNOME,DATA_NASCITA,SESSO,CF,DATA_ACCESSO,TIPO_ACCESSO,DIAGNOSI_PRINCIPALE,DIAGNOSI_SECONDARIA,REPARTO,DATA_DIMISSIONE,DATA_DEGENZA_GIORNI,COSTO_TOTALE,REGIME_RICOVERO,ESITI,NOTE
+PAZ0199,Lauretta,Guariento,1959-11-03,F,MLPMLE97P44A259X,2024-10-17,Ricovero,Infarto,Covid-19,Chirurgia,2024-10-30,13,5762.47,Day Hospital,Guarito,
+PAZ0200,Coriolano,Barbarigo,1968-02-15,F,MFFMRN71D13C673D,2025-07-26,Day Hospital,Infarto,Polmonite,Ortopedia,2025-07-27,1,7963.98,Day Hospital,Migliorato,
+PAZ0201,Ubaldo,Carriera,1943-09-30,F,BRTSTN41L18I867E,2025-04-23,Pronto Soccorso,Polmonite,,Medicina Generale,2025-04-24,1,2834.76,Day Hospital,Invariato,
+PAZ0202,Alfio,Rosiello,1948-01-30,F,SNGRGR70M57C102X,2025-04-02,Ricovero,Infarto,Appendicite,Medicina Generale,2025-04-12,10,571.92,Ordinario,Guarito,
+PAZ0203,Galasso,Paolucci,1941-08-07,F,GNNBLS78M50E623S,2024-09-14,Pronto Soccorso,Frattura Femore,,Ortopedia,2024-09-14,0,2874.09,Day Hospital,Guarito,
+PAZ0204,Alessia,Cianciolo,1949-05-07,F,SPLNTN52L31A017I,2024-11-06,Ricovero,Polmonite,Insufficienza Renale,Cardiologia,2024-11-15,9,7532.49,Ordinario,Migliorato,Notare loro diverso.
+PAZ0205,Ruggero,Piacentini,2000-04-25,F,MRNCCL09M24I027K,2024-10-28,Ricovero,Appendicite,Covid-19,Cardiologia,2024-11-03,6,4748.78,Ordinario,Deceduto,Marito parola che.
+PAZ0206,Enzio,Salandra,1989-11-29,F,VRRLCU24T14E512X,2024-08-09,Day Hospital,Polmonite,Insufficienza Renale,Cardiologia,2024-08-11,2,5464.44,Ordinario,Migliorato,
+PAZ0207,Rosaria,Desio,1981-03-21,F,CNNLFD65T60L244F,2024-10-11,Ricovero,Appendicite,Insufficienza Renale,Chirurgia,2024-10-28,17,7572.35,Day Hospital,Guarito,
+PAZ0208,Donna,Vigliotti,1982-05-28,F,SDRNNR73A15D544H,2025-05-07,Ricovero,Infarto,Appendicite,Chirurgia,2025-05-17,10,616.27,Day Hospital,Guarito,
+PAZ0209,Domenico,Antonacci,2001-06-10,F,BTOMCA98S70B056O,2025-01-30,Pronto Soccorso,Frattura Femore,Infarto,Cardiologia,2025-02-01,2,2919.63,Ordinario,Migliorato,
+PAZ0210,Virginia,Foà,1963-10-19,F,BRNFRC33A63H407F,2025-04-16,Pronto Soccorso,Frattura Femore,Insufficienza Renale,Malattie Infettive,2025-04-16,0,14750.45,Day Hospital,Deceduto,Civile baciare più.
+PAZ0211,Emilio,Biagiotti,2000-12-05,F,CRQFBA83A15E094P,2025-03-27,Pronto Soccorso,Covid-19,Appendicite,Ortopedia,2025-03-27,0,12138.15,Ordinario,Guarito,
+PAZ0212,Guarino,Lombroso,1986-08-28,F,NCCNNS06B17I352Y,2025-06-27,Day Hospital,Insufficienza Renale,Frattura Femore,Medicina Generale,2025-06-27,0,10325.66,Ordinario,Guarito,
+PAZ0213,Iolanda,Morpurgo,1968-11-04,F,PVNTRT21M53A660S,2025-05-16,Pronto Soccorso,Appendicite,Covid-19,Cardiologia,2025-05-17,1,4514.98,Day Hospital,Invariato,Prezzo piano prossimo.
+PAZ0214,Maura,Boiardo,1994-11-11,F,FRRMCL67A61C855E,2025-07-19,Day Hospital,Covid-19,Insufficienza Renale,Cardiologia,2025-07-20,1,2660.23,Day Hospital,Guarito,
+PAZ0215,Luigi,Gullotta,1972-05-12,F,DSSBNN80B53C241J,2024-08-27,Pronto Soccorso,Covid-19,Appendicite,Ortopedia,2024-08-27,0,8522.62,Day Hospital,Invariato,
+PAZ0216,Ramona,Giusti,1965-11-16,F,CMPFDL94S51I786D,2024-08-04,Day Hospital,Infarto,Polmonite,Cardiologia,2024-08-06,2,3589.96,Ordinario,Deceduto,
+PAZ0217,Claudio,Boccherini,1967-06-27,F,CMNCRD92P69E838S,2024-10-16,Day Hospital,Insufficienza Renale,Frattura Femore,Chirurgia,2024-10-17,1,7087.96,Day Hospital,Invariato,
+PAZ0218,Alberico,Pacomio,1972-01-15,F,PCLGLS65H70G782O,2024-09-16,Pronto Soccorso,Infarto,Frattura Femore,Malattie Infettive,2024-09-18,2,12629.3,Day Hospital,Migliorato,
+PAZ0219,Piergiuseppe,Vespa,1958-06-27,F,TSLTNO81L63A972D,2025-05-17,Day Hospital,Frattura Femore,Covid-19,Cardiologia,2025-05-17,0,9255.87,Day Hospital,Guarito,
+PAZ0220,Stella,Gabrieli,1949-06-02,F,SBLLNE62M60H488H,2025-04-02,Ricovero,Frattura Femore,Infarto,Malattie Infettive,2025-04-20,18,14011.94,Ordinario,Guarito,
+PAZ0221,Susanna,Filogamo,1963-04-30,F,SMTSLV58T41H888R,2025-02-12,Day Hospital,Covid-19,Appendicite,Cardiologia,2025-02-12,0,11959.63,Day Hospital,Deceduto,
+PAZ0222,Maura,Stein,1962-09-11,F,BRRLRA18L03G015G,2024-10-08,Pronto Soccorso,Insufficienza Renale,Covid-19,Medicina Generale,2024-10-10,2,11181.57,Day Hospital,Guarito,
+PAZ0223,Rossana,Bacosi,1962-10-03,F,MGNLVR03P27G804M,2025-06-01,Pronto Soccorso,Insufficienza Renale,Covid-19,Ortopedia,2025-06-03,2,6684.58,Ordinario,Migliorato,
+PAZ0224,Riccardo,Coppola,2003-08-01,F,TRCRML04R44F709V,2025-03-25,Pronto Soccorso,Frattura Femore,Polmonite,Chirurgia,2025-03-27,2,7360.67,Ordinario,Invariato,
+PAZ0225,Pietro,Briccialdi,1961-03-10,F,SCRGBL68S18I319B,2024-10-04,Day Hospital,Frattura Femore,Polmonite,Ortopedia,2024-10-05,1,6018.41,Day Hospital,Migliorato,
+PAZ0226,Pina,Scotto,1981-12-06,F,SSLCML09A13L894C,2025-07-13,Ricovero,Insufficienza Renale,Frattura Femore,Medicina Generale,2025-07-18,5,12179.68,Ordinario,Deceduto,
+PAZ0227,Gianluca,Pepe,1979-10-04,F,FSLFRN22L22E783L,2025-01-10,Ricovero,Frattura Femore,Insufficienza Renale,Ortopedia,2025-01-18,8,8324.37,Day Hospital,Migliorato,
+PAZ0228,Severino,Manunta,1967-08-09,F,NFNRLD46A50L673B,2025-07-03,Day Hospital,Polmonite,Covid-19,Ortopedia,2025-07-05,2,11847.6,Ordinario,Deceduto,
+PAZ0229,Sylvia,Iadanza,1963-03-08,F,GLNPNL31B53L459C,2024-08-13,Ricovero,Covid-19,,Cardiologia,2024-08-16,3,1525.37,Ordinario,Deceduto,
+PAZ0230,Erika,Durante,1986-02-21,F,CMCRSN07L51I461A,2025-03-01,Ricovero,Polmonite,Covid-19,Malattie Infettive,2025-03-05,4,2333.91,Ordinario,Migliorato,
+PAZ0231,Romina,Capecchi,1956-08-06,F,RMTGNL34A48H814M,2025-06-09,Pronto Soccorso,Insufficienza Renale,Infarto,Malattie Infettive,2025-06-09,0,10801.73,Day Hospital,Guarito,
+PAZ0232,Liberto,Bonomo,1999-04-25,F,NLCBRR48M18E789L,2025-06-25,Ricovero,Insufficienza Renale,Appendicite,Chirurgia,2025-07-03,8,10459.46,Day Hospital,Deceduto,
+PAZ0233,Annamaria,Argurio,1953-12-08,F,BLLDNT57M49L190L,2025-05-16,Pronto Soccorso,Polmonite,Insufficienza Renale,Ortopedia,2025-05-16,0,6828.54,Ordinario,Guarito,
+PAZ0234,Ivan,Martinelli,1949-09-01,F,GNZRNZ56S64C716M,2024-11-03,Ricovero,Polmonite,Appendicite,Cardiologia,2024-11-16,13,11573.17,Ordinario,Deceduto,
+PAZ0235,Gioacchino,Favata,1971-02-06,F,BRNLNI72R09D576G,2025-04-11,Ricovero,Infarto,Insufficienza Renale,Ortopedia,2025-04-24,13,14113.81,Ordinario,Guarito,
+PAZ0236,Rosaria,Gilardoni,1981-09-04,F,GRSCHL15E69H102X,2025-04-12,Pronto Soccorso,Infarto,,Cardiologia,2025-04-14,2,14428.4,Ordinario,Invariato,Meno con figlia modo.
+PAZ0237,Barbara,Passalacqua,1982-07-18,F,BCCRFL08P54I060M,2025-01-26,Pronto Soccorso,Appendicite,Insufficienza Renale,Malattie Infettive,2025-01-27,1,4170.68,Day Hospital,Guarito,
+PAZ0238,Paulina,Calarco,1967-12-31,F,GRDCSN06R58A229D,2024-11-13,Ricovero,Appendicite,Insufficienza Renale,Chirurgia,2024-11-17,4,13179.91,Ordinario,Deceduto,
+PAZ0239,Pellegrino,Tomaselli,1961-01-24,F,PRDLDC72M59E589A,2025-02-10,Day Hospital,Insufficienza Renale,,Cardiologia,2025-02-11,1,4656.41,Ordinario,Migliorato,
+PAZ0240,Daniele,Valmarana,2001-10-28,F,PNISNR87M49H126B,2025-04-25,Day Hospital,Insufficienza Renale,Appendicite,Chirurgia,2025-04-26,1,12690.57,Ordinario,Invariato,
+PAZ0241,Ivo,Fibonacci,1949-07-23,F,BRNMBT30H52G293Z,2025-06-06,Ricovero,Polmonite,Infarto,Malattie Infettive,2025-06-22,16,14828.22,Day Hospital,Invariato,Intorno utile odore con.
+PAZ0242,Graziella,Paruta,2001-06-25,F,TRBVTR87A15A371I,2024-10-19,Pronto Soccorso,Infarto,Covid-19,Malattie Infettive,2024-10-21,2,13841.31,Ordinario,Deceduto,
+PAZ0243,Gabriella,Speri,1968-10-15,F,FGZRSN16B12B507X,2025-02-05,Ricovero,Frattura Femore,Appendicite,Cardiologia,2025-02-21,16,3956.13,Day Hospital,Migliorato,Finestra largo passione.
+PAZ0244,Federigo,Foletti,1940-10-21,F,RNSMRC63R59A118X,2025-03-10,Day Hospital,Appendicite,Polmonite,Chirurgia,2025-03-11,1,5167.36,Day Hospital,Invariato,
+PAZ0245,Romeo,Serao,1940-07-28,F,SBRRNZ26C52I639A,2025-06-04,Pronto Soccorso,Infarto,Frattura Femore,Medicina Generale,2025-06-05,1,7388.42,Ordinario,Deceduto,Domanda infine produrre.
+PAZ0246,Costantino,Salieri,1999-07-25,F,FNTSVD45S50I434C,2025-05-16,Pronto Soccorso,Appendicite,Polmonite,Medicina Generale,2025-05-17,1,11018.12,Day Hospital,Guarito,
+PAZ0247,Adele,Vergerio,1987-07-07,F,RCCMCL65M53E120W,2024-12-17,Ricovero,Covid-19,Frattura Femore,Ortopedia,2025-01-01,15,14523.23,Ordinario,Invariato,
+PAZ0248,Lorenzo,Pucci,1996-07-10,F,RMZGSN67R42E013W,2024-10-17,Pronto Soccorso,Covid-19,Polmonite,Cardiologia,2024-10-17,0,7189.3,Ordinario,Deceduto,
+PAZ0249,Domenico,Sordi,1972-12-26,F,GRZDMA76M63F809T,2025-07-27,Pronto Soccorso,Polmonite,Covid-19,Medicina Generale,2025-07-28,1,11707.05,Day Hospital,Invariato,
+PAZ0250,Coluccio,Siffredi,1995-05-19,F,PCLMME00S02A286L,2025-01-27,Day Hospital,Appendicite,Covid-19,Cardiologia,2025-01-29,2,1011.8,Day Hospital,Invariato,Vecchio paese assoluto.
+PAZ0251,Marissa,Solari,1992-03-15,F,RSPVNN42C62F489X,2025-06-14,Ricovero,Frattura Femore,Covid-19,Chirurgia,2025-06-26,12,9161.16,Ordinario,Invariato,
+PAZ0252,Lolita,Germano,1974-02-01,F,SCLDRN24E64G785P,2024-08-27,Ricovero,Appendicite,,Malattie Infettive,2024-09-10,14,9177.91,Day Hospital,Guarito,
+PAZ0253,Arsenio,Rismondo,1987-05-20,F,CMURMN58E05M335D,2025-02-05,Ricovero,Polmonite,Appendicite,Malattie Infettive,2025-02-07,2,1315.74,Ordinario,Deceduto,
+PAZ0254,Marcello,Babato,2006-03-09,F,GSPGNR50S70D960N,2025-07-08,Pronto Soccorso,Frattura Femore,Infarto,Malattie Infettive,2025-07-09,1,6898.91,Day Hospital,Invariato,
+PAZ0255,Rocco,Cafarchia,1968-03-22,F,SCNTNO88D47M431K,2024-11-24,Ricovero,Insufficienza Renale,Frattura Femore,Malattie Infettive,2024-12-03,9,11543.63,Ordinario,Invariato,
+PAZ0256,Cirillo,Gelli,1977-03-21,F,FRMMRN69C57D549R,2025-04-30,Ricovero,Insufficienza Renale,Infarto,Chirurgia,2025-05-20,20,14461.42,Ordinario,Deceduto,
+PAZ0257,Laura,Scialpi,1955-09-20,F,SRRBNC28T15L978D,2024-09-04,Ricovero,Polmonite,Appendicite,Medicina Generale,2024-09-22,18,9510.17,Day Hospital,Deceduto,
+PAZ0258,Nadia,Valier,1986-04-16,F,BGOMTT52A60E889H,2025-02-23,Pronto Soccorso,Insufficienza Renale,Frattura Femore,Chirurgia,2025-02-23,0,14606.92,Ordinario,Guarito,Lo sottile aggiungere.
+PAZ0259,Tonino,Mascagni,1943-08-17,F,LBRZGL81E66L638G,2024-08-21,Day Hospital,Covid-19,Insufficienza Renale,Cardiologia,2024-08-22,1,14088.59,Day Hospital,Guarito,Nulla strada adesso.
+PAZ0260,Ninetta,Tomasetti,1970-05-11,F,CGNTMT64H59G869T,2024-11-16,Pronto Soccorso,Insufficienza Renale,Polmonite,Chirurgia,2024-11-17,1,4562.8,Ordinario,Deceduto,
+PAZ0261,Sophia,Antonetti,2004-08-30,F,SNDCRL88B28I361S,2024-08-19,Ricovero,Insufficienza Renale,Appendicite,Ortopedia,2024-08-20,1,10917.01,Ordinario,Guarito,
+PAZ0262,Silvio,Malenchini,2001-05-22,F,CSTGGL54H63E629C,2024-07-28,Pronto Soccorso,Insufficienza Renale,Covid-19,Chirurgia,2024-07-30,2,3369.83,Day Hospital,Guarito,
+PAZ0263,Melina,Savorgnan,1960-11-11,F,SFFRNT81H07G559D,2025-02-27,Pronto Soccorso,Insufficienza Renale,Frattura Femore,Malattie Infettive,2025-02-27,0,7249.13,Day Hospital,Deceduto,Ecco produzione noi.
+PAZ0264,Michelangelo,Rastelli,1958-01-15,F,BLLBRT01S47G993R,2025-04-23,Day Hospital,Frattura Femore,Covid-19,Malattie Infettive,2025-04-23,0,10601.89,Ordinario,Guarito,
+PAZ0265,Gianluca,Cardano,2002-04-26,F,CCEPLM81P21A769M,2025-02-26,Pronto Soccorso,Infarto,Frattura Femore,Medicina Generale,2025-02-27,1,7954.97,Day Hospital,Deceduto,Parete patria serio.
+PAZ0266,Giada,Ossani,1981-12-19,F,MRCGCB66H64C732C,2025-03-18,Day Hospital,Insufficienza Renale,Frattura Femore,Medicina Generale,2025-03-20,2,7805.02,Ordinario,Migliorato,
+PAZ0267,Piermaria,Turchi,1999-12-12,F,FTTRMR10A60C506G,2025-04-22,Ricovero,Insufficienza Renale,Infarto,Malattie Infettive,2025-04-25,3,8538.2,Ordinario,Guarito,Cui nulla ecco inizio.
+PAZ0268,Gian,Camuccini,1994-11-23,F,PSTNNL29A64H006C,2024-09-24,Ricovero,Infarto,Insufficienza Renale,Cardiologia,2024-10-13,19,14533.9,Day Hospital,Deceduto,
+PAZ0269,Enzio,Giannelli,1969-08-23,F,BLSCML99C51B535U,2025-06-24,Day Hospital,Covid-19,,Ortopedia,2025-06-24,0,13913.32,Ordinario,Migliorato,
+PAZ0270,Ermenegildo,Galiazzo,1989-07-18,F,GVNBLS32D67A359V,2024-09-18,Ricovero,Infarto,Insufficienza Renale,Chirurgia,2024-10-07,19,14732.82,Day Hospital,Guarito,
+PAZ0271,Damiano,Botticelli,1983-11-26,F,NBLMLS90A23F318S,2024-11-03,Ricovero,Infarto,Insufficienza Renale,Ortopedia,2024-11-11,8,2611.65,Ordinario,Invariato,
+PAZ0272,Lara,Gregorio,1983-07-11,F,CNNPRR30P59E420A,2025-01-20,Ricovero,Frattura Femore,Appendicite,Chirurgia,2025-01-29,9,12116.12,Day Hospital,Invariato,
+PAZ0273,Ilaria,Tafuri,1972-03-14,F,CMNDNL44L41G524S,2025-05-02,Ricovero,Polmonite,Covid-19,Ortopedia,2025-05-22,20,4849.15,Day Hospital,Invariato,Oltre chi parola niente.
+PAZ0274,Daniele,Castiglione,1969-11-08,F,RNZFDC18D21H472Z,2025-02-17,Pronto Soccorso,Frattura Femore,,Chirurgia,2025-02-17,0,9709.92,Day Hospital,Guarito,Seguito fra magari.
+PAZ0275,Zaira,Civaschi,1994-05-19,F,SGSSLT60A62E719L,2024-12-21,Day Hospital,Polmonite,Covid-19,Ortopedia,2024-12-21,0,1974.84,Ordinario,Guarito,
+PAZ0276,Agnolo,Iannotti,1966-06-15,F,PSLFRD23B50A370S,2025-07-22,Ricovero,Covid-19,Frattura Femore,Medicina Generale,2025-07-29,7,2960.45,Ordinario,Migliorato,
+PAZ0277,Sole,Sismondi,1986-11-11,F,RRCMLE56L52E897C,2024-08-06,Pronto Soccorso,Appendicite,Infarto,Medicina Generale,2024-08-08,2,4534.11,Day Hospital,Guarito,
+PAZ0278,Tonia,Fantozzi,1992-10-25,F,PRMBGI62P66E381S,2024-09-15,Pronto Soccorso,Appendicite,Insufficienza Renale,Ortopedia,2024-09-17,2,13957.12,Ordinario,Guarito,
+PAZ0279,Morena,Marconi,1952-11-26,F,BRMDRN59H22I199N,2024-10-05,Pronto Soccorso,Covid-19,Appendicite,Chirurgia,2024-10-05,0,5907.17,Day Hospital,Migliorato,
+PAZ0280,Luigi,Carli,2001-06-03,F,BRGBGI87E44I628S,2025-07-19,Day Hospital,Polmonite,Infarto,Chirurgia,2025-07-19,0,4847.36,Ordinario,Deceduto,
+PAZ0281,Baccio,Dovara,1968-12-12,F,NPLDNI64E16H986J,2025-03-05,Pronto Soccorso,Infarto,Appendicite,Cardiologia,2025-03-05,0,5169.71,Day Hospital,Invariato,
+PAZ0282,Agnolo,Franceschi,1967-07-29,F,MNTMRN67C49B076Y,2024-12-13,Day Hospital,Infarto,Covid-19,Malattie Infettive,2024-12-13,0,10739.63,Day Hospital,Guarito,
+PAZ0283,Loredana,Mannoia,1972-07-10,F,MNLFRN35S12E365R,2025-06-13,Pronto Soccorso,Infarto,Covid-19,Medicina Generale,2025-06-13,0,8038.64,Ordinario,Invariato,
+PAZ0284,Greca,Visconti,1994-04-06,F,CSLGSP28C24D272F,2025-03-10,Ricovero,Covid-19,Polmonite,Ortopedia,2025-03-28,18,6308.05,Day Hospital,Migliorato,Croce colpa egli tardi.
+PAZ0285,Ezio,Infantino,1990-09-13,F,GLLMRD00B03D079P,2024-10-14,Pronto Soccorso,Appendicite,Insufficienza Renale,Malattie Infettive,2024-10-16,2,11603.53,Day Hospital,Invariato,
+PAZ0286,Alessio,Marino,2005-06-06,F,JVNFDL73M70A564D,2024-08-06,Day Hospital,Covid-19,,Malattie Infettive,2024-08-06,0,14759.04,Ordinario,Deceduto,
+PAZ0287,Fernanda,Mercati,1982-12-09,F,RSSFMM45M08G155S,2025-04-11,Pronto Soccorso,Covid-19,Polmonite,Malattie Infettive,2025-04-11,0,9477.96,Day Hospital,Invariato,
+PAZ0288,Alessia,Orlando,1978-11-07,F,LCCRFL13T58A177N,2024-08-01,Ricovero,Covid-19,Infarto,Malattie Infettive,2024-08-14,13,844.87,Day Hospital,Guarito,
+PAZ0289,Antonio,Morpurgo,1954-08-31,F,NTNSRS45L58G260H,2025-07-16,Ricovero,Insufficienza Renale,Infarto,Malattie Infettive,2025-07-31,15,5559.09,Ordinario,Invariato,
+PAZ0290,Stella,Bosurgi,1976-06-06,F,DSSRNT20H23G684G,2025-04-07,Ricovero,Polmonite,Frattura Femore,Malattie Infettive,2025-04-20,13,4361.5,Ordinario,Invariato,
+PAZ0291,Leopoldo,Chechi,1998-05-01,F,SCTGFR39R54H994S,2025-02-24,Ricovero,Insufficienza Renale,Frattura Femore,Ortopedia,2025-03-04,8,5457.08,Day Hospital,Migliorato,
+PAZ0292,Liliana,Aulenti,1940-05-10,F,PGNNZE28D66D277M,2025-01-11,Day Hospital,Insufficienza Renale,Appendicite,Malattie Infettive,2025-01-12,1,2319.05,Day Hospital,Deceduto,
+PAZ0293,Eva,Telesio,1945-01-06,F,VVLPRL42R46A546J,2024-09-18,Ricovero,Appendicite,Frattura Femore,Cardiologia,2024-09-24,6,4089.53,Day Hospital,Deceduto,
+PAZ0294,Marina,Proietti,1942-02-09,F,RSLNCL85R47B264D,2025-04-05,Ricovero,Insufficienza Renale,Covid-19,Medicina Generale,2025-04-08,3,7747.82,Ordinario,Guarito,
+PAZ0295,Tina,Guarato,1982-10-02,F,CRQGRG13H08H807A,2024-12-05,Day Hospital,Frattura Femore,Covid-19,Medicina Generale,2024-12-05,0,11962.23,Ordinario,Invariato,Occasione lago nostro.
+PAZ0296,Ornella,Ficino,1995-11-30,F,LNCPCC51P41C230Y,2024-09-05,Ricovero,Covid-19,Insufficienza Renale,Ortopedia,2024-09-24,19,3190.13,Ordinario,Guarito,
+PAZ0297,Domenico,Baggio,1950-01-31,F,PCCRGR42T50L433Q,2024-09-16,Ricovero,Appendicite,Insufficienza Renale,Malattie Infettive,2024-09-19,3,10655.37,Day Hospital,Guarito,
+PAZ0298,Marta,Andreozzi,2003-01-14,F,MDRLNR35C28A010O,2025-05-13,Pronto Soccorso,Polmonite,Infarto,Malattie Infettive,2025-05-14,1,1640.83,Ordinario,Migliorato,Veramente battere dove.

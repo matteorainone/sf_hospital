@@ -1,0 +1,56 @@
+{
+  "iot_readings": [
+    {
+      "patient_code": "PAZ0278",
+      "timestamp": "2025-07-20T05:52:06.903732",
+      "device_id": "DEV-001",
+      "bed_location": "Ala-Ovest-Letto-19",
+      "temperatura": null,
+      "frequenza_cardiaca": 56,
+      "saturazione_o2": 96,
+      "pressione_sistolica": 153,
+      "pressione_diastolica": 103,
+      "battery_level": 92,
+      "signal_quality": null
+    },
+    {
+      "patient_code": "PAZ0210",
+      "timestamp": "2025-07-28T13:00:06.904242",
+      "device_id": "DEV-002",
+      "bed_location": "Ala-Sud-Letto-4",
+      "temperatura": 35.5,
+      "frequenza_cardiaca": 105,
+      "saturazione_o2": 92,
+      "pressione_sistolica": null,
+      "pressione_diastolica": 86,
+      "battery_level": null,
+      "signal_quality": "medium"
+    },
+    {
+      "patient_code": "PAZ0208",
+      "timestamp": "2025-07-26T06:44:06.904242",
+      "device_id": "DEV-002",
+      "bed_location": "Ala-Est-Letto-13",
+      "temperatura": 36.9,
+      "frequenza_cardiaca": 50,
+      "saturazione_o2": 90,
+      "pressione_sistolica": 96,
+      "pressione_diastolica": 67,
+      "battery_level": null,
+      "signal_quality": null
+    },
+    {
+      "patient_code": "PAZ0215",
+      "timestamp": "2025-07-18T06:51:06.904242",
+      "device_id": "DEV-002",
+      "bed_location": "Ala-Sud-Letto-15",
+      "temperatura": 36.8,
+      "frequenza_cardiaca": 65,
+      "saturazione_o2": 100,
+      "pressione_sistolica": 119,
+      "pressione_diastolica": 67,
+      "battery_level": null,
+      "signal_quality": "high"
+    }
+  ]
+}
