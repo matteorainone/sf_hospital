@@ -22,8 +22,8 @@ CREATE STORAGE INTEGRATION S3_HOSPITAL_INTEGRATION
     TYPE = EXTERNAL_STAGE
     STORAGE_PROVIDER = 'S3'
     ENABLED = TRUE
-    STORAGE_AWS_ROLE_ARN = 'arn:aws:iam::122610496520:role/Snowflake_s3_user'
-    STORAGE_ALLOWED_LOCATIONS = ('s3://matteo-r-profai-ex-bucket/stage_sf/')
+    STORAGE_AWS_ROLE_ARN = 'arn:aws:iam::xxxxxxx:role/Snowflake_s3_user'
+    STORAGE_ALLOWED_LOCATIONS = ('s3://bucket-location/stage_sf/')
     COMMENT = 'STORAGE INTEGRATION PER BUCKET S3'
 ;
 
@@ -32,14 +32,14 @@ DESCRIBE INTEGRATION S3_HOSPITAL_INTEGRATION; --per recuperare i valori con cui 
 --CREAZIONE OGGETTO DI STAGING PER DATI ECONOMICI/GESTIONALI
 CREATE OR REPLACE STAGE SNOWFLAKE_LEARNING_DB.STAGING.ERP_STAGE
     STORAGE_INTEGRATION = S3_HOSPITAL_INTEGRATION
-    URL = 's3://matteo-r-profai-ex-bucket/stage_sf/hospital_economical_data/'
+    URL = 's3://bucket-location/stage_sf/hospital_economical_data/'
     FILE_FORMAT = SNOWFLAKE_LEARNING_DB.STAGING.FILEFORMAT_CSV
 ;
 
 --CREAZIONE OGGETTO DI STAGING PER DATI CLINICI
 CREATE OR REPLACE STAGE SNOWFLAKE_LEARNING_DB.STAGING.CLINICAL_STAGE
     STORAGE_INTEGRATION = S3_HOSPITAL_INTEGRATION
-    URL = 's3://matteo-r-profai-ex-bucket/stage_sf/clinical_data/'
+    URL = 's3://bucket-location/stage_sf/clinical_data/'
     FILE_FORMAT = SNOWFLAKE_LEARNING_DB.STAGING.PATIENT_HEALTH_DATA_JSON
 ;
 
